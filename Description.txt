@@ -1,0 +1,4 @@
+Sevenmentors is a private institute in Chinchwad, Pune.
+
+      I will upload daily codes I learn in the class and will upload the details here.
+      I am currently learing Python and this is specifically for python classes I am taking.
