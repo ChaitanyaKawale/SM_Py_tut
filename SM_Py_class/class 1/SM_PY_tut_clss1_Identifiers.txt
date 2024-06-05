@@ -1,0 +1,20 @@
+# Identifiers
+    - All variables, class, object, functions, list, tupple, dictionaries, in python together are termed as python identifiers.
+
+
+    Rules for using python identifiers.
+    1. an idenrtifiers name can begin with letters or an underscore(_)
+        eg. _myName, My_name
+    2. We cannot use number at the starting of the identifier but we can use number in between the name
+        eg. ab1, AB1, ab1b, 
+    3. Special charachters are not allowed. Except underscore(_)
+        e.g my-name is not allowed but my_name is allowed.
+    4. Identifiers are case sensitive
+        e.g a = 50 and A = 60 are diff
+    5. We can not use keywords as an identifiers.
+        keywords: The words which are predefined and have certain meaning in python.
+        There are total 35(36 in new version) keywords.
+
+List of keywords:
+['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+
